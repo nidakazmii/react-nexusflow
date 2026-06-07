@@ -63,7 +63,7 @@ Features a custom DAG (Directed Acyclic Graph) validation engine. Before running
 ### Installation
 ```bash
 # Clone the repository
-git clone [https://github.com/yourusername/react-nexusflow.git](https://github.com/yourusername/react-nexusflow.git)
+git clone https://github.com/nidakazmii/react-nexusflow.git
 
 # Navigate into the project directory
 cd react-nexusflow
